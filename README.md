@@ -1,4 +1,4 @@
-### Faaala pessoal! ⚡️ 
+### Faaala pessoal! 
 
 ### Me chamo Rodrigo José
 
