@@ -1,4 +1,4 @@
-### Faaala pessoal! 
+### Olá pessoal! 
 
 ### Me chamo Rodrigo José
 
@@ -21,3 +21,5 @@ Estudando as melhores tecnologias para testes manuais e automatizado.
 - Scrum Foundations Professional Certificate SFPC - (Português)
 
 •	Inglês (intermediário - cursando)
+
+Contato por e-mail: digo.1903@hotmail.com
