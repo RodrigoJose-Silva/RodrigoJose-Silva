@@ -9,6 +9,29 @@
 
 Estudando as melhores tecnologias para testes manuais e automatizado.
 
+<b>Testes manuais</b>
+  - Técnicas de testes caixa preta
+  - Partição de equivalência
+  - Analise de valores limites
+  - Tabela de decisão
+
+- Automação de testes Web
+  - Selenium WebDriver
+  - Cypress
+  - 
+  
+ - Automação de testes API
+  - Rest Assured
+
+- Ferramentas de automação de testes
+  - JUnit 5
+
+- Ferramentas
+  - IntelliJ
+  - Visual Studio Code
+  - Postman
+  - Insomnia
+  - JMeter
 
 <b>CURSOS, CERTIFICAÇÕES, SKILLS E IDIOMA</b>
 
