@@ -14,24 +14,29 @@ Estudando as melhores tecnologias para testes manuais e automatizado.
   - Partição de equivalência
   - Analise de valores limites
   - Tabela de decisão
-
-- Automação de testes Web
-  - Selenium WebDriver
-  - Cypress
-  - 
   
- - Automação de testes API
+<b>Automação de testes Web</b>
+  - Selenium WebDriver
+    
+<b>Automação de testes API</b>
   - Rest Assured
 
-- Ferramentas de automação de testes
+<b>Ferramentas de automação de testes</b>
   - JUnit 5
 
-- Ferramentas
+<b>Ferramentas</b>
   - IntelliJ
   - Visual Studio Code
   - Postman
   - Insomnia
   - JMeter
+  - Cypress
+
+<b>Linguagem de programação</b>
+  - Java (básico)
+  - JavaScript (básico)
+  - Ruby (básico)
+
 
 <b>CURSOS, CERTIFICAÇÕES, SKILLS E IDIOMA</b>
 
