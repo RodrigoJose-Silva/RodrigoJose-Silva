@@ -9,7 +9,7 @@
 
 Estudando as melhores tecnologias para testes manuais e automatizado.
 
-<b>Testes manuais</b>
+<b>Técnicas de testes</b>
   - Técnicas de testes caixa preta
   - Partição de equivalência
   - Analise de valores limites
