@@ -20,6 +20,7 @@ Estudando as melhores tecnologias para testes manuais e automatizado.
   - Rest Assured
   - JUnit 5
   - Cypress
+  - Robot Framework
   
 <b>Ferramentas</b>
   - IntelliJ
