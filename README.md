@@ -14,6 +14,8 @@ Estudando as melhores tecnologias para testes manuais e automatizado.
   - Partição de equivalência
   - Analise de valores limites
   - Tabela de decisão
+  - Testes Exploratório
+  - Heurísticas de testes
   
 <b>Frameworks de automação de testes</b>
   - Selenium WebDriver
